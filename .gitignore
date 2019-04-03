@@ -1,0 +1,9 @@
+/_config.yml
+*pyc
+.idea
+inspectionProfiles/
+.ipynb_checkpoints/
+.project
+.pydevproject
+__pycache__/
+

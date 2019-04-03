@@ -1,0 +1,10 @@
+Z:\tdata1\luminex_challenge\classA\ClassA_11_Ch7.ome.tif,69,21,21,69,A
+Z:\tdata1\luminex_challenge\classA\ClassA_25_Ch7.ome.tif,65,28,28,65,A
+Z:\tdata1\luminex_challenge\classA\ClassA_2_Ch7.ome.tif,55,14,14,55,A
+Z:\tdata1\luminex_challenge\classA\ClassA_49_Ch7.ome.tif,52,19,19,52,A
+Z:\tdata1\luminex_challenge\classA\ClassA_4_Ch7.ome.tif,74,22,22,74,A
+Z:\tdata1\luminex_challenge\classA\ClassA_51_Ch7.ome.tif,76,27,27,76,A
+Z:\tdata1\luminex_challenge\classA\ClassA_60_Ch7.ome.tif,70,22,22,70,A
+Z:\tdata1\luminex_challenge\classA\ClassA_73_Ch7.ome.tif,77,28,28,77,A
+Z:\tdata1\luminex_challenge\classA\ClassA_92_Ch7.ome.tif,65,19,19,65,A
+Z:\tdata1\luminex_challenge\classA\ClassA_9_Ch7.ome.tif,69,25,25,69,A
