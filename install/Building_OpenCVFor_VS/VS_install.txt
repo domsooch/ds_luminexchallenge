@@ -1,0 +1,12 @@
+dounload release: winpack from here: https://opencv.org/releases.html
+
+new project
+remove pch shut off pch
+hellowrorld worked
+add inclued in vcpp directories
+add library folder
+add name of library in external dependencies C:\Users\dominic\Documents\opencv\build\x64\vc15\lib
+add to path the dll folder C:\Users\dominic\Documents\opencv\build\x64\vc15\bin REBOOT
+then it works
+
+this video: https://www.google.com/search?q=setting+up+opencv+to+run+with+visual+studio&oq=setting+up+opencv+to+run+with+visual+studio&aqs=chrome..69i57.10215j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=1
